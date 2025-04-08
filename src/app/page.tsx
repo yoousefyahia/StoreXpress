@@ -16,7 +16,7 @@ export default function Home() {
     <main className="overflow-x-hidden pt-24 lg:pt-28 antialiased">
       <div className="relative container">
         <Image
-          src="/public/bg.png"
+          src="/bg.png"
           width={1920}
           height={1080}
           alt="test"
